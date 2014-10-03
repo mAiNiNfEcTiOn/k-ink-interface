@@ -1,5 +1,6 @@
 What is k(InK) [![Build Status](https://travis-ci.org/entomb/k-ink-interface.png?branch=refactor-extendArrayObject)](https://travis-ci.org/entomb/k-ink-interface)
 ==============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mAiNiNfEcTiOn/k-ink-interface?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ***k(ink) is under heavy development. If you want a stable prof-of-concept check the `master` branch***
